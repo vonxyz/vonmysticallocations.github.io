@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fent And Ket Locations
+title: Fent And Ket Guide
 ---
 
 # Welcome to the Guide
@@ -11,7 +11,7 @@ Fent is a good asset to bring to zones, wars, or in general shoot outs. Why? Bec
 
 ## 1. Crafting Ketamine
 First, you have to make ketamine. The recipe requires:
-* **2 Ounces of Ketamine** + **2 Scales** + **3 Empty Pill Bottles** $\rightarrow$ **3 Ketamine Bags**
+* **2 Ounces of Ketamine** + **2 Scales** + **3 Empty Pill Bottles** --> **3 Ketamine Bags**
 
 ### Locations:
 * **Ounce of Ketamine:** 
@@ -38,7 +38,7 @@ First, you have to make ketamine. The recipe requires:
 
 ## 2. Crafting Fentanyl
 Now to turn it into fent. Here is the expensive and long recipe:
-* **2 Stamina Potions** + **2 Cleaning Kits** + **4 Magic Mushrooms** + **2 Stoned Energy Drinks** + **5 Ketamine Bags** $\rightarrow$ **6 Fentanyl**
+* **2 Stamina Potions** + **2 Cleaning Kits** + **4 Magic Mushrooms** + **2 Stoned Energy Drinks** + **5 Ketamine Bags** --> **6 Fentanyl**
 
 ### Material Sources & Bench Location:
 * **Fentanyl Bench (Hippy place over at Paleto):**
