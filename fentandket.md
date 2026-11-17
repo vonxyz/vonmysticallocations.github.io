@@ -2,7 +2,6 @@
 Fent And Ket Locations
 ---
 
-
 # Welcome to the Guide
 
 Fent is a good asset to bring to zones, wars, or in general shoot outs. Why? Because you get **50 health and 50 armor** after popping one. However, it is very expensive to craft.
