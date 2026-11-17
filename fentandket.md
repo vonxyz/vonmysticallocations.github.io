@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fent And Ket Guide
+---
+
 Fent is a good asset to bring to zones, wars, or in general shoot outs why? 
 50 health 
 50 armor 
