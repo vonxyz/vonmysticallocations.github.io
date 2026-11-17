@@ -1,5 +1,6 @@
 ---
-Fent And Ket Locations
+layout: default
+title: Fent And Ket Locations
 ---
 
 # Welcome to the Guide
